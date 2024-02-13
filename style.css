@@ -16,14 +16,14 @@ body {
 }
 
 .gif {
-    height: 150%;
-    width: 150%;
+    height: 100%;
+    width: 100%;
 }
 
 h2 {
     text-align: center;
     font-size: 1.5em;
-    color: #e94d58;
+    color: #b2f804;
     margin: 15px 0;
 }
 .btn-group {
@@ -43,15 +43,15 @@ button {
     outline: none;
     cursor: pointer;
     box-shadow: 0 2px 4px gray;
-    border: 2px solid #b2f804;
+    border: 2px solid #e94d58;
     font-size: 1.2em;
 }
 button:nth-child(1) {
     margin-left: -200px;
-    background: #b2f804;
+    background: #e94d58;
 }
 button:nth-child(2) {
     margin-right: -200px;
     background: white;
-    color:#b2f804;
+    color:#e94d58;
 }
